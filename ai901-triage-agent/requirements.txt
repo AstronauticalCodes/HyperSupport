@@ -1,0 +1,4 @@
+streamlit
+azure-ai-textanalytics
+azure-ai-vision-imageanalysis
+azure-cognitiveservices-speech
